@@ -40,8 +40,10 @@ user can easily access just by scanning a QR code.
   <a href="https://ibb.co/B4KcW7y"><img src="https://i.ibb.co/9w3cKfb/microfitschematicgithub.png" alt="microfitschematicgithub" border="5"></a>
   <figcaption>This is the circuit schematic</figcaption>
 </div>
+<br>
+<br>
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
   </div
   
